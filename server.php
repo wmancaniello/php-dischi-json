@@ -27,3 +27,6 @@ header("Content-type: application/json");
 
 // Invio la risposta
 echo $json_list;
+
+
+?>
