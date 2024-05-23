@@ -1,0 +1,14 @@
+body {
+  background-color: #1d2d3c;
+}
+
+i {
+  font-size: 2rem;
+  margin-left: 1rem;
+  color: #36d860;
+}
+
+.card {
+  background-color: #111f30;
+  color: white;
+}
